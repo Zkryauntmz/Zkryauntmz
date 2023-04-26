@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/zekeriyaunutm16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zekeriyaunutm16" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/zekeriya-unutmaz-9006a8200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zekeriya-unutmaz-9006a8200/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/zekeriya-unutmaz-9006a8200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zekeriya-unutmaz-9006a8200" height="30" width="40" /></a>
 <a href="https://instagram.com/zekeriya.untmz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zekeriya.untmz" height="30" width="40" /></a>
 </p>
 
