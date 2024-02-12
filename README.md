@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zkryauntmz&label=Profile%20views&color=0e75b6&style=flat" alt="zkryauntmz" /> </p>
 
-- 🔭 I’m currently working on **WhoAmI**
+- 🔭 I’m currently working on **KOTLIN**
 
-- 🌱 I’m currently learning **Hardware_Youtube / Academind**
+- 🌱 I’m currently learning **Hardware_Youtube / Academind / KasımAdalan **
 
 - 📫 How to reach me **zekeriyaunutmaz@gmail.com**
 
